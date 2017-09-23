@@ -1,4 +1,4 @@
-# 使用gensim训练word2vec模型并用kmeans对训练得到词向量聚类
+# 使用gensim训练word2vec模型并对训练得到词向量聚类
 ## 训练word2vec
 1. 训练模型的代码文件是train_word2vec.train_word2vec.py，
 2. 训练用到的语料地址：
